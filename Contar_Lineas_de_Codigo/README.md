@@ -8,12 +8,13 @@ $ git ls-files | xargs wc -l
 
 ```js
 `
-wc: '&': No such file or directory
-wc: Fusionar/README.md: No such file or directory
+  33 Actualizar_y_Fusionar/README.md
   31 Branch/README.md
+  18 Contar_Lineas_de_Codigo/README.md
   24 Heroku/README.md
   38 Log/README.md
    3 README.md
-  96 total
+ 147 total
+
 `
 ```
