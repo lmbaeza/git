@@ -1,3 +1,3 @@
-# git - Init Hotfix
+# git - Init Develop
 
 Comandos de Git
